@@ -1,1 +1,1 @@
-# Padr-es-de-Projetos-Estruturais---Parte-I
+# Padroes-de-Projetos-Estruturais-Parte-I
